@@ -1,0 +1,10 @@
+numpy
+pandas==1.3.4
+wordcloud==1.8.1
+streamlit
+plotly
+requests
+nltk
+streamlit_autorefresh
+matplotlib==3.4.2
+wordcloud==1.8.1
